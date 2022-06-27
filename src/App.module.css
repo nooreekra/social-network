@@ -1,0 +1,69 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+    background-color: #4ca7f8;
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    height: 40px;
+    background-color: #b850b8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+
+main {
+    flex: 1;
+}
+
+footer {
+    height: 40px;
+    background-color: #b850b8;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.profileWrapper {
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.profile {
+}
+
+.profile img{
+    width: 200px;
+    border-radius: 50%;
+}
+
+
+.addPost {
+    display: flex;
+}
+
+.postsWrapper {
+
+}
+
+.posts {
+
+}
+
+.post {
+
+}
+
