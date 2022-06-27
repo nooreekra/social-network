@@ -13,7 +13,7 @@ function App() {
             <main>
                 <div className={style.profileWrapper}>
                     <div className={style.profile}>
-                        <img src="http://sun9-83.userapi.com/s/v1/if1/UZ7diCXtIG0TGMjPRFILWqIbzb1KD3I5QrZrD9-2CuC9_c-lpUMoudycq4uklYFHgKQVgdwR.jpg?size=400x400&quality=96&crop=420,5,1067,1067&ava=1" alt="avatar"/>
+                        <img src="https://avatars.githubusercontent.com/u/107566335?v=4" alt="avatar"/>
                         <div className={style.addPost}>
                             <input type="text"/>
                             <button>add post</button>
